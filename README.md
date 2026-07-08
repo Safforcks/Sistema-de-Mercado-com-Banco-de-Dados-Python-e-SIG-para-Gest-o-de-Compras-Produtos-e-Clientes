@@ -1,4 +1,4 @@
-# Sistema de Mercado com SIG em Python
+# Sistema de Mercado com SIG em Python - 12/2025
 
 Sistema de mercado desenvolvido em **Python** com integração a banco de dados **SQLite**, criado para a disciplina **Banco de Dados + Python**.
 
